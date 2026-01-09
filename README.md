@@ -2,7 +2,7 @@
 
 A collection of machine learning implementations exploring various algorithms and neural network architectures using Python, scikit-learn, and PyTorch.
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [Projects Overview](#projects-overview)
 - [Installation](#installation)
@@ -11,7 +11,7 @@ A collection of machine learning implementations exploring various algorithms an
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 
-## 🔍 Projects Overview
+##  Projects Overview
 
 This repository contains 5 Jupyter notebooks demonstrating different machine learning concepts:
 
@@ -21,7 +21,7 @@ This repository contains 5 Jupyter notebooks demonstrating different machine lea
 4. **Extended Neural Network** - Enhanced MNIST classifier with training metrics
 5. **Multi-Layer Perceptron (MLP)** - Deep neural network architecture
 
-## 💻 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -44,7 +44,7 @@ Or install all dependencies at once:
 pip install torch torchvision scikit-learn pandas matplotlib seaborn jupyter
 ```
 
-## 📖 Project Details
+##  Project Details
 
 ### 1. K-Means Clustering (`K_Clustering.ipynb`)
 
@@ -175,7 +175,7 @@ class DeepMLP(nn.Module):
 - **Matplotlib & Seaborn**: Data visualization
 - **NumPy**: Numerical computing
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repository**:
 
@@ -198,7 +198,7 @@ class DeepMLP(nn.Module):
 
 4. **Open any notebook** and run the cells sequentially
 
-## 📊 Results Summary
+##  Results Summary
 
 | Project            | Algorithm      | Dataset  | Accuracy/Performance     |
 | ------------------ | -------------- | -------- | ------------------------ |
@@ -208,26 +208,21 @@ class DeepMLP(nn.Module):
 | Extended NN        | 2-layer MLP    | MNIST    | ~97% accuracy (3 epochs) |
 | Deep MLP           | 4-layer MLP    | MNIST    | Training complete        |
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## 📝 License
 
-This project is open source and available under the MIT License.
-
-## 👤 Author
+##  Author
 
 **Maahela**
 
 - GitHub: [@Maahela](https://github.com/Maahela)
 
-## 🌟 Acknowledgments
+##  Acknowledgments
 
 - Iris Dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
 - MNIST Dataset: [Yann LeCun's Website](http://yann.lecun.com/exdb/mnist/)
 - SMS Spam Collection: [UCI Repository](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
 
----
 
-⭐ Star this repository if you find it helpful!
